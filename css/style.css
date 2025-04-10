@@ -79,6 +79,7 @@ gap: 20px;
 
 .behind{
     background-color: #f8fafc;
+    
 }
 
 .behind-text{
@@ -119,10 +120,8 @@ img{
 }
 
 
-.reviews h2{
-      
+.reviews h2{   
    padding-top: 30px;
-    
 }
 
 
@@ -141,6 +140,15 @@ img{
 
 .sweetheart-grid{
     display: grid;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: crimson;
 }
 
 
